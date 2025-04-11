@@ -223,6 +223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e4b778d506f7c8498533b470dc0abc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gustoDeHelado: CHO
+  cantidadDeHelado: 1000
 --- !u!4 &845800710
 Transform:
   m_ObjectHideFlags: 0
